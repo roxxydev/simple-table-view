@@ -1,0 +1,11 @@
+.Home {
+  text-align: center;
+  flex: content;
+  display: flex;
+  justify-content: center;
+}
+
+.User-Image {
+  height: 100px;
+  width: 100px;
+}
